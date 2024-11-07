@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ContextLifeCycle01.11</string>
+    <string name="batyr">Batyr</string>
+    <string name="buttonText">Hello, world!</string>
+</resources>
